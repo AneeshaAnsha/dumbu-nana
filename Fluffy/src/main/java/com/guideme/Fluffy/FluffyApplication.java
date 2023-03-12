@@ -8,6 +8,9 @@ public class FluffyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FluffyApplication.class, args);
+        System.out.println("My new life starts today");
+
+
 	}
 
 }
